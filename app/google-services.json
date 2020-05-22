@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "574305609846",
+    "firebase_url": "https://hwkjohnallen.firebaseio.com",
+    "project_id": "hwkjohnallen",
+    "storage_bucket": "hwkjohnallen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574305609846:android:d088d1acc07ea5400c9757",
+        "android_client_info": {
+          "package_name": "JohnAllen.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574305609846-1u7m6ivmant1cmlrhoav296feuvmlmfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "JohnAllen.com",
+            "certificate_hash": "6c9b33d164c67281fcbded6b5318e88c2779c0da"
+          }
+        },
+        {
+          "client_id": "574305609846-fa7alfs3d7r0tihaklvhfqq0bcbda8th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfhQ2ZtxWFWyaHlLasFBHd_PjDN0RBcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574305609846-fa7alfs3d7r0tihaklvhfqq0bcbda8th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574305609846:android:4bbd70b10924229e0c9757",
+        "android_client_info": {
+          "package_name": "johnallen.com.hwk3_paybill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574305609846-hmrqobk71nf6lckbcr4k4vofp0h96g4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "johnallen.com.hwk3_paybill",
+            "certificate_hash": "6c9b33d164c67281fcbded6b5318e88c2779c0da"
+          }
+        },
+        {
+          "client_id": "574305609846-fa7alfs3d7r0tihaklvhfqq0bcbda8th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfhQ2ZtxWFWyaHlLasFBHd_PjDN0RBcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574305609846-fa7alfs3d7r0tihaklvhfqq0bcbda8th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

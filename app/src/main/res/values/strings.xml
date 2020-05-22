@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hwk3-PayBill</string>
+    <string name="tvUsername">Username:</string>
+    <string name="tvPassword">Password:</string>
+    <string name="buttonLogin">Login</string>
+    <string name="tvAmountDue">Amount Due:</string>
+    <string name="tvPayAmount">Pay Amount:</string>
+    <string name="buttonPay">Pay</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvFirst">First:</string>
+    <string name="tvLast">Last:</string>
+    <string name="tvShowDetails">Show Details</string>
+    <string name="tvPayBill">Pay Bill</string>
+
+</resources>
